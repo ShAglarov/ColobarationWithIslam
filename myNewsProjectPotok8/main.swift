@@ -7,5 +7,8 @@
 
 import Foundation
 
-print("Hello, World!")
+print("Создал экран")
 
+print("Создал кнопку входа")
+
+print("Добавил стили")
