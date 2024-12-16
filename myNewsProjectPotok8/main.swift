@@ -7,5 +7,10 @@
 
 import Foundation
 
-print("Hello, World!")
+print("Создал экран")
 
+print("Создал кнопку входа")
+
+print("Добавил новую структуру")
+
+print("Добавил логику логирования") 
